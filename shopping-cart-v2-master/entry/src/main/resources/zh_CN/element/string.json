@@ -1,0 +1,56 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "ShoppingCart"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "ShoppingCart"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "购物车"
+    },
+    {
+      "name": "shopping_cart",
+      "value": "购物车"
+    },
+    {
+      "name": "select_all",
+      "value": "全选"
+    },
+    {
+      "name": "total",
+      "value": "总计："
+    },
+    {
+      "name": "settlement",
+      "value": "结算 (%s)"
+    },
+    {
+      "name": "travel",
+      "value": "旅行"
+    },
+    {
+      "name": "matterhorn",
+      "value": "Matterhorn"
+    },
+    {
+      "name": "sunrise_snow_mountain",
+      "value": "珠峰日照金山"
+    },
+    {
+      "name": "swiss_skiing",
+      "value": "瑞士滑雪"
+    },
+    {
+      "name": "emerald_lake",
+      "value": "Emerald Lake"
+    },
+    {
+      "name": "cliffs_of_moher",
+      "value": "Cliffs of Moher"
+    }
+  ]
+}
